@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo-List-App</string>
+    <string name="Tasks_Title">My Tasks</string>
+    <string name="Task_Amount_Title">Tasks</string>
+    <string name="Delete_Icon">Deletes this item</string>
+    <string name="Task_Creation_Title">Add new task</string>
+    <string name="Task_NameHint">Task</string>
+    <string name="Task_DescriptionHint">Description</string>
+    <string name="Save_Btn">Save</string>
+    <string name="Cancel_Btn">Clear</string>
+    <string name="requiredNameInput">Task name required</string>
+    <string name="Task_TimeHint">Time of day</string>
+    <string name="VoiceHintText">Hello, how can I help you?</string>
+    <string name="VoiceAppRequired">Google Quick Search Box required</string>
+    <string name="Task_DateHint">Date</string>
+    <string name="requiredDateInput">Date required</string>
+</resources>

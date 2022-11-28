@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo-Listen-App</string>
+    <string name="Tasks_Title">Meine Aufgaben</string>
+    <string name="Task_Amount_Title">Aufgaben</string>
+    <string name="Delete_Icon">Löscht diesen Gegenstand</string>
+    <string name="Task_Creation_Title">Erstelle neue Aufgabe</string>
+    <string name="Task_NameHint">Aufgabe</string>
+    <string name="Task_DescriptionHint">Beschreibung</string>
+    <string name="Save_Btn">Speichern</string>
+    <string name="Cancel_Btn">Zurücksetzen</string>
+    <string name="requiredNameInput">Aufgabenname erforderlich</string>
+    <string name="Task_TimeHint">Uhrzeit</string>
+    <string name="VoiceHintText">Hallo, wie kann ich dir behiflich sein?</string>
+    <string name="VoiceAppRequired">Google Quick Search Box erforderlich</string>
+    <string name="Task_DateHint">Datum</string>
+    <string name="requiredDateInput">Datum erforderlich</string>
+</resources>
